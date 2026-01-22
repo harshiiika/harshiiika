@@ -1,30 +1,113 @@
-# 💫 About Me:
-👋 Hey! I'm Harshika Saxena<br><br>Computer Science & Engineering Student on a mission to transform ideas into impactful digital solutions. Currently diving deep into the world of full-stack development while building the future of education technology.🚀<br><br>Currently crafting StudyMate - an all-in-one e-learning platform with the mission to help students "ORGANIZE YOUR UNIVERSE ONE TASK AT A TIME" ✨<br><br>🔧 Tech Stack: Java | PHP | CSS | Bootstrap | HTML | Laravel | MySQL | JavaScript  <br>📚 Learning: DSA in Java , System Design Patterns & NodeJS   <br>🎯 Focus: Full-Stack Development & Strong Foundation Web Development<br><br>When not coding, you'll find me dancing 💃, cooking 👨‍🍳, or exploring new ideas 🌟<br><br>Let's connect and build something amazing together! 🤝<br><br>📧 harshikasaxena01@gmail.com | 📍 Bikaner, Rajasthan
+<div align="center">
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
+<h1 align="center">Hi, I'm Harshika Saxena 👋</h1>
+<h3 align="center">Full-Stack Developer | CS Engineer | Building Scalable Web Solutions</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-saxena-9a113b250) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshikasaxena01@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/u/HarshikaSaxena/) 
+<div align="center">
+  <a href="https://linkedin.com/in/harshika-saxena-9a113b250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:harshikasaxena01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/u/HarshikaSaxena/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</div>
 
+<br>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshiiika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshiiika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshiiika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshiiika&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshiiika.harshiiika" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshiiika&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me  
+
+I’m a **Full-Stack Developer** and **Computer Science Engineer** with **1+ year of production experience** building scalable, secure, and user-friendly web applications.
+
+From architecting **15+ LMS modules** using Laravel & MongoDB to developing REST APIs with **JWT authentication**, I enjoy turning complex ideas into clean, efficient solutions.
+
+Currently, I’m building **StudyMate** – an all-in-one productivity platform for students that combines **analytics, planning, and learning tools** in one place.
+
+**Quick facts:**
+- 🎓 B.Tech CSE @ GEC Bikaner (Current SGPA: **9.36**)  
+- 🧠 Strong in **DSA, OOP, System Design (Basics)**  
+- 💼 Full-Stack Developer Intern @ Neologicx  
+- 🧩 Solved **200+ LeetCode** problems  
+- 🚀 Certified **Salesforce Agentforce AI Specialist (2025)**  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Programming  
+Java | Python | PHP | JavaScript | C | SQL  
+
+### 🌐 Web & Backend  
+HTML5 | CSS3 | Bootstrap | Laravel | REST APIs | JWT Auth  
+
+### 🗄 Databases  
+MySQL | MongoDB  
+
+### ⚙ Tools  
+Git | GitHub | Postman | Maven | XAMPP | Vercel  
+
+---
+
+## 🚀 Featured Projects  
+
+### 📚 StudyMate – Student Productivity Platform  
+**Tech:** Laravel, JavaScript, MongoDB, Chart.js, REST APIs  
+
+- Personalized dashboards with productivity analytics  
+- Notes, To-Do lists, Pomodoro timer, Quizzes  
+- Modular MVC architecture with secure API backend  
+- Visual insights into study time & performance  
+
+### 💰 SpendWise – Personal Finance Manager  
+**Tech:** Java, Swing, MongoDB, Maven  
+
+- Expense tracking with category-wise analysis  
+- Budget calculations & data visualization  
+- DAO + MVC architecture  
+- SOLID principles followed  
+
+---
+
+## 🏆 Achievements  
+
+- 🧩 **200+ LeetCode** problems solved  
+- 🔥 **100-day coding streak**  
+- 🎯 Salesforce **AI Specialist Certification (2025)**  
+- 🤝 Training & Placement Coordinator – helped 200+ students  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshiiika&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiika&theme=radical" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiika&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+## ✨ Fun Side  
+
+When I’m not coding, you’ll find me:
+- 💃 Dancing  
+- 👨‍🍳 Cooking  
+- 🌟 Exploring new ideas  
+
+Let’s build something impactful together 🚀  
+
+📍 Bikaner, Rajasthan  
+📧 harshikasaxena01@gmail.com  
