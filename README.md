@@ -7,12 +7,12 @@
 <br/>
 
 ```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  💼 Full-Stack Developer @ Neologicx Resources             │
-│  🎓 CSE Student @ GEC Bikaner | CGPA: 8.2 (Sem: 9.36)     │
-│  📍 Bikaner, Rajasthan, India                               │
-│  🚀 Building StudyMate - Transforming Student Productivity  │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  💼 Full-Stack Developer @ Neologicx Resources                  │
+│  🎓 CSE Student @ GEC Bikaner | CGPA: 8.3 (Latest/7th Sem: 10)  │
+│  📍 Bikaner, Rajasthan, India                                   │
+│  🚀 Building StudyMate - Transforming Student Productivity      │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshika-saxena-9a113b250)
