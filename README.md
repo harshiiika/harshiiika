@@ -9,7 +9,7 @@
 ```ascii
 ┌──────────────────────────────────────────────────────────────────┐
 │  💼 Full-Stack Developer @ Neologicx Resources                  │
-│  🎓 CSE Student @ GEC Bikaner | CGPA: 8.3 (Latest/7th Sem: 10)  │
+│  🎓 CSE Student @ GEC Bikaner | CGPA: 8.3 (SGPA / 7th Sem: 10)  │
 │  📍 Bikaner, Rajasthan, India                                   │
 │  🚀 Building StudyMate - Transforming Student Productivity      │
 └──────────────────────────────────────────────────────────────────┘
